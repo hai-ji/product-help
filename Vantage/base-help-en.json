@@ -165,7 +165,14 @@
              "title":"Create and run a SQL statement or script", 
              "description":"Considerations for running SQL", 
              "url":"Vantage/dgd1640281158386.md"
-             }
+             },
+           { 
+       "id":"bkm1640280721917", 
+       "title":"Use cases", 
+       "description":"Run use cases to explore VantageCloud Lake capabilities.", 
+       "url":"Vantage/bkm1640280721917.md",
+       "childrenUrl":"VantageCloudLakeUseCases/use-cases-en.json"
+       }
 
           ]
 
