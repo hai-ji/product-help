@@ -33,6 +33,12 @@
          "url":"Vantage/mqu1640280532737.md",
          "children":[
             {
+    "id": "pat3195117161214",
+    "title": "Path Analysis",
+    "url": "https://raw.githubusercontent.com/Teradata/product-help/master/VantageCloudLakeUseCases/content/nPath/README.md",
+    "description": "Patterns that predict behaviors"
+},
+            {
                "id":"ixo1658772101054",
                "title":"Compute group key concepts",
                "description":"Compute group capabilities",
